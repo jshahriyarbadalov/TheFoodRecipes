@@ -1,6 +1,12 @@
 # TheFoodRecipes
 The food recipes use data from spoonacular Api
 https://spoonacular.com/
-![1](https://user-images.githubusercontent.com/42112729/152804201-28fa615b-62a2-4f86-83a5-0bdb2c85cdff.png)
-![5](https://user-images.githubusercontent.com/42112729/152804210-70f776be-d0e5-43d5-a86e-ea5e2d84c96d.png)
-![6](https://user-images.githubusercontent.com/42112729/152804213-fe693699-3ccf-43e9-b59a-ecf6269b1955.png)
+# Main page
+![1](https://user-images.githubusercontent.com/42112729/152805277-8dd5bed3-4cad-4015-8808-2b68658fcea9.png)
+
+# Food Details page
+![5](https://user-images.githubusercontent.com/42112729/152805289-5585d6e4-c0bb-4742-880c-a5a6b4c39c48.png)
+
+# Filter bottom sheet
+![6](https://user-images.githubusercontent.com/42112729/152805291-b27f784b-d4d2-4ce7-9075-f9a928eba636.png)
+
